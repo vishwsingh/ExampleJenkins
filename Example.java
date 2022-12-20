@@ -5,5 +5,9 @@ public class Example {
   System.out.println("Hi, this is new example");
     
     System.out.println("Adding another example");
+    
+    System.out.println("Hey");
+    
+    System.out.println("Happy Day");
   }
 }
