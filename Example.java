@@ -9,5 +9,7 @@ public class Example {
     System.out.println("Hey");
     
     System.out.println("Happy Day");
+    
+    System.out.println("Yes");
   }
 }
